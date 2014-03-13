@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Cat1 | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/cat1/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-13T10:19:38+00:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://pollucite.github.io/blog/categories/cat1/atom.xml" rel="self"/>
+  <link href="http://pollucite.github.io/"/>
+  <updated>2014-03-13T13:39:30+00:00</updated>
+  <id>http://pollucite.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First]]></title>
-    <link href="http://yoursite.com/blog/2014/03/13/my-first/"/>
+    <link href="http://pollucite.github.io/blog/2014/03/13/my-first/"/>
     <updated>2014-03-13T09:08:34+00:00</updated>
-    <id>http://yoursite.com/blog/2014/03/13/my-first</id>
+    <id>http://pollucite.github.io/blog/2014/03/13/my-first</id>
     <content type="html"><![CDATA[<p><strong>Woooooooo!!</strong></p>
 
 <p><em>!!</em>
